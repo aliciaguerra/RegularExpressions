@@ -1,1 +1,6 @@
-# RegularExpressions
+# Regular Expressions
+- In theoretical computer science and formal language theory, a regular expression is a sequence of chaacters that forms a search pattern, mainly for use in pattern matching with strings, or string matching, i.e. "find and replace"-like operations.
+- The concept arose in the 1950s, when the American mathematician Stephen Kleene formalized the description of a regular language, and come into common use with the Unix text processing utilities ed, an editor, and grep (global regular expression print), a filter.
+- Regular expressions are so useful in computing that the various systems to specify regular expressions have evolved to provide both a basic and extended standard for the grammar and syntax; modern regular expressions heavily augment the standards.
+- Regular expression processors are found in several search engines, search and replace dialogs of several word processors and text editors, and in the command lines of text processing utilities, such as sed and AWK.
+- Many programming languages provide regular expression capabilities, some built-in, for example, Perl, JavaScript, Ruby, AWK, and Tcl, and others via a standard library, for example, .NET languages, Java, Python, and C++
